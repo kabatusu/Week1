@@ -1,1 +1,2 @@
 myfirstfile 
+this is a newline in my text file 
